@@ -55,9 +55,6 @@ The dataset contains features like:
 6. Implementing different clustering methods<br>
 7. Conclusion<br>
 
-## **Future Work**
-From this clustering analysis we can create Netflix movies and tv shows
-recommendation systems & also we can use topic modelling.
-
-Miscellaneous :
-* Google colab tools
+## **Conclusion**
+Build K-means Clustering Model to analysis create Netflix movies and tv showsrecommendation systems . Optimal number of Clusters was found by Elbow method
+and silhouette score . On analysis Netflix has more focus on TV shows versus movies . Also, video content on Netflix's catalogue was clustered into Three clusters achieved through K-mean.
