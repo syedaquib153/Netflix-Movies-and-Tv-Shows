@@ -50,6 +50,7 @@ K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlab
 The k-means clustering algorithm mainly performs two tasks:
 
 Determines the best value for K center points or centroids by an iterative process.
+
 Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.
 
 
@@ -79,7 +80,9 @@ Build K-means Clustering Model to analysis create Netflix movies and tv showsrec
 and silhouette score . On analysis Netflix has more focus on TV shows versus movies . Also, video content on Netflix's catalogue was clustered into Three clusters achieved through K-mean.
 
 ##**References**##
+
 1)Analytical Vidya
+
 Available:https://www.analyticsvidhya.com/blog/2021/11/understanding-k-means-clustering-in-machine-learningwith-examples/
 
 2)AlmaBetter Mentor and Coach
