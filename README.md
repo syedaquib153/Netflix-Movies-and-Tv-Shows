@@ -43,6 +43,25 @@ The dataset contains features like:
 * **listed_in :** Generes<br>
 * **description:** The Summary description<br>
 
+<h2> :book: K-means Clustering </h2>
+
+K-Means Clustering is an Unsupervised Learning algorithm, which groups the unlabeled dataset into different clusters. Here K defines the number of pre-defined clusters that need to be created in the process, as if K=2, there will be two clusters, and for K=3, there will be three clusters, and so on.
+
+The k-means clustering algorithm mainly performs two tasks:
+
+Determines the best value for K center points or centroids by an iterative process.
+Assigns each data point to its closest k-center. Those data points which are near to the particular k-center, create a cluster.
+
+
+### **Execution Instruction:**
+
+1) train.py
+
+Then, the train.py file must be executed, which leads to the production of the model.txt file. At the beginning of this file, the dataset for training has been imported so that the functions defined in it can be used.
+
+2) test.py
+
+Finally, the test.py file must be executed to create the result.txt and evaluation.txt files. Just like the train.py file, at the beginning of this file, the dataset for test  has been imported so that the functions defined in it can be used.
 
 **Project Work flow**
 ----------------------------
@@ -58,3 +77,13 @@ The dataset contains features like:
 ## **Conclusion**
 Build K-means Clustering Model to analysis create Netflix movies and tv showsrecommendation systems . Optimal number of Clusters was found by Elbow method
 and silhouette score . On analysis Netflix has more focus on TV shows versus movies . Also, video content on Netflix's catalogue was clustered into Three clusters achieved through K-mean.
+
+##**References**##
+1)Analytical Vidya
+Available:https://www.analyticsvidhya.com/blog/2021/11/understanding-k-means-clustering-in-machine-learningwith-examples/
+
+2)AlmaBetter Mentor and Coach
+
+
+
+
