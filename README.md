@@ -22,7 +22,7 @@ We have the data of which contains details of customers like id , age, gender an
 
 **Dataset info**
 
-* 1. Number of records: 7787
+* 1.Number of records: 7787
 
 * 2.Number of features: 12
 
