@@ -79,7 +79,7 @@ Finally, the test.py file must be executed to create the result.txt and evaluati
 Build K-means Clustering Model to analysis create Netflix movies and tv showsrecommendation systems . Optimal number of Clusters was found by Elbow method
 and silhouette score . On analysis Netflix has more focus on TV shows versus movies . Also, video content on Netflix's catalogue was clustered into Three clusters achieved through K-mean.
 
-##**References**##
+## **References**
 
 1)Analytical Vidya
 
